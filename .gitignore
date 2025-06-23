@@ -1,7 +1,27 @@
+# Python
 __pycache__/
 *.pyc
 *.db
 .env
 *.sqlite3
+
+# Flask-Migrate specific
 migrations/
+
+# Pipenv lock file
 Pipfile.lock
+
+# Virtual environment (if not using pipenv shell which handles this)
+venv/
+.venv/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Private configuration files that might contain sensitive info
+config.pyc
