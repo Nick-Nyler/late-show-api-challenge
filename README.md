@@ -111,7 +111,7 @@ Response:
    - Test all endpoints with appropriate request bodies
 
 ## GitHub Repository
-[late-show-api-challenge](https://github.com/<username>/late-show-api-challenge)
+[late-show-api-challenge](https://github.com/Nick-Nyler/late-show-api-challenge)
 ```
 
 # .gitignore
