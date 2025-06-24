@@ -6,7 +6,7 @@ A Flask REST API for managing a Late Night TV show system with guests, episodes,
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/<username>/late-show-api-challenge.git
+git clone https://github.com/Nick-Nyler/late-show-api-challenge.git
 cd late-show-api-challenge
 ```
 
